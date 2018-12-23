@@ -1,0 +1,9 @@
+{
+  "name": "book-list-app",
+  "version": "1.0.0",
+  "description": "A small book list app.",
+  "main": "app.js",
+  "repository": "https://github.com/danielsmits/book-list-app.git",
+  "author": "DanielSmits <info@agileproduction.nl>",
+  "license": "MIT"
+}
